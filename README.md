@@ -42,3 +42,8 @@ Wave was built to develop practical skills in:
 I'm Masih. I'm a student developer interested in Computer Science, Artificial Intelligence, and human-centered software. Wave is part of my independent learning and software development portfolio.
 Thanks for checking out Wave I hope you like exploring it. 🌊
 
+## 📱 App Screenshots
+
+Here is a look at Wave in action.
+
+[Explore all 12 screenshots →](./screenshots/)
